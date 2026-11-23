@@ -2,7 +2,6 @@
 Python Expression Masterclass Beginner to Advanced Our learning roadmap 
  
 Level 1 — Conditional expressions
-
 Ternary operators, nested ternary, conditional logic.
 
 Level 2 — Comprehensions
